@@ -9,3 +9,13 @@ Este é um exemplo de uma API simples para gerenciar uma lista de animes usando 
 - **POST /anime**: Adiciona um novo anime à lista.
 - **PUT /anime/:id**: Atualiza o nome de um anime existente com base no ID fornecido.
 - **DELETE /anime/:id**: Remove um anime da lista com base no ID fornecido.
+
+## Como Usar
+
+1. Instale as dependências:
+   - `express`
+
+2. Importe os módulos necessários:
+   ```javascript
+   import express from "express";
+  
