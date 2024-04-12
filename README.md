@@ -14,6 +14,7 @@ Este é um exemplo de uma API simples para gerenciar uma lista de animes usando 
 
 1. Instale as dependências:
    - `express`
+   - 'nodemon'
 
 2. Importe os módulos necessários:
    ```javascript
